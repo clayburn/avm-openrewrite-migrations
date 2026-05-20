@@ -1,5 +1,7 @@
 # avm-openrewrite-migrations
 
+[![Revved up by Develocity](https://img.shields.io/badge/Revved%20up%20by-Develocity-06A0CE?logo=Gradle&labelColor=02303A)](https://ge.solutions-team.gradle.com/scans?search.rootProjectNames=avm-openrewrite-migrations)
+
 [![Latest Release](https://img.shields.io/github/v/release/infra-at-scale/avm-openrewrite-migrations?label=release)](https://github.com/infra-at-scale/avm-openrewrite-migrations/releases/latest)
 
 Safe, deterministic [Azure Verified Modules](https://azure.github.io/Azure-Verified-Modules/) (AVM) migrations for [OpenTofu](https://opentofu.org/) and [Terraform](https://developer.hashicorp.com/terraform).
